@@ -1,0 +1,78 @@
+4.5262 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color='white', colorSpace='named', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x119bb2da0>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x119cba630>, multiSample=False, name='window1', numSamples=2, pos=[320.0, 200.0], screen=0, size=array([2560, 1600]), stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+4.5263 	EXP 	window1: recordFrameIntervals = False
+4.6924 	EXP 	window1: recordFrameIntervals = True
+4.8760 	EXP 	window1: recordFrameIntervals = False
+5.1169 	EXP 	Created instrText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='instrText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+5.1304 	EXP 	Created target = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='target', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+5.1591 	EXP 	instrText: autoDraw = True
+10.3021 	EXP 	Imported stroop.xlsx as conditions, 6 conditions, 4 params
+10.3026 	EXP 	Created sequence: random, trialTypes=6, nReps=5, seed=None
+10.3030 	EXP 	New trial (rep=0, index=0): OrderedDict([('word', 'red'), ('colour', 'red'), ('congruent', 1), ('corrAns', 'left')])
+10.3083 	DATA 	Keypress: space
+10.3234 	EXP 	instrText: autoDraw = False
+10.3234 	EXP 	target: color = 'red (named)'
+10.3234 	EXP 	target: text = 'red'
+10.8074 	EXP 	target: autoDraw = True
+11.5117 	EXP 	New trial (rep=0, index=1): OrderedDict([('word', 'green'), ('colour', 'blue'), ('congruent', 0), ('corrAns', 'right')])
+11.5167 	DATA 	Keypress: left
+11.5278 	EXP 	target: autoDraw = False
+11.5278 	EXP 	target: color = 'blue (named)'
+11.5278 	EXP 	target: text = 'green'
+12.0078 	EXP 	target: autoDraw = True
+12.8604 	EXP 	New trial (rep=0, index=2): OrderedDict([('word', 'green'), ('colour', 'green'), ('congruent', 1), ('corrAns', 'down')])
+12.8623 	DATA 	Keypress: down
+12.8749 	EXP 	target: autoDraw = False
+12.8749 	EXP 	target: color = 'green (named)'
+12.8749 	EXP 	target: text = 'green'
+13.3586 	EXP 	target: autoDraw = True
+15.7621 	EXP 	New trial (rep=0, index=3): OrderedDict([('word', 'red'), ('colour', 'green'), ('congruent', 0), ('corrAns', 'down')])
+15.7667 	DATA 	Keypress: down
+15.7781 	EXP 	target: autoDraw = False
+15.7781 	EXP 	target: color = 'green (named)'
+15.7781 	EXP 	target: text = 'red'
+16.2600 	EXP 	target: autoDraw = True
+17.8961 	EXP 	New trial (rep=0, index=4): OrderedDict([('word', 'blue'), ('colour', 'red'), ('congruent', 0), ('corrAns', 'left')])
+17.9008 	DATA 	Keypress: down
+17.9120 	EXP 	target: autoDraw = False
+17.9120 	EXP 	target: color = 'red (named)'
+17.9120 	EXP 	target: text = 'blue'
+18.3951 	EXP 	target: autoDraw = True
+19.1465 	EXP 	New trial (rep=0, index=5): OrderedDict([('word', 'blue'), ('colour', 'blue'), ('congruent', 1), ('corrAns', 'right')])
+19.1484 	DATA 	Keypress: left
+19.1623 	EXP 	target: autoDraw = False
+19.1623 	EXP 	target: color = 'blue (named)'
+19.1623 	EXP 	target: text = 'blue'
+19.6458 	EXP 	target: autoDraw = True
+20.1642 	EXP 	New trial (rep=1, index=0): OrderedDict([('word', 'red'), ('colour', 'green'), ('congruent', 0), ('corrAns', 'down')])
+20.1684 	DATA 	Keypress: right
+20.1794 	EXP 	target: autoDraw = False
+20.1794 	EXP 	target: color = 'green (named)'
+20.1794 	EXP 	target: text = 'red'
+20.6621 	EXP 	target: autoDraw = True
+23.1818 	EXP 	New trial (rep=1, index=1): OrderedDict([('word', 'red'), ('colour', 'red'), ('congruent', 1), ('corrAns', 'left')])
+23.1833 	DATA 	Keypress: down
+23.1965 	EXP 	target: autoDraw = False
+23.1965 	EXP 	target: color = 'red (named)'
+23.1965 	EXP 	target: text = 'red'
+23.6812 	EXP 	target: autoDraw = True
+25.6005 	EXP 	New trial (rep=1, index=2): OrderedDict([('word', 'green'), ('colour', 'green'), ('congruent', 1), ('corrAns', 'down')])
+25.6056 	DATA 	Keypress: left
+25.6169 	EXP 	target: autoDraw = False
+25.6169 	EXP 	target: color = 'green (named)'
+25.6169 	EXP 	target: text = 'green'
+26.0980 	EXP 	target: autoDraw = True
+27.2002 	EXP 	New trial (rep=1, index=3): OrderedDict([('word', 'green'), ('colour', 'blue'), ('congruent', 0), ('corrAns', 'right')])
+27.2021 	DATA 	Keypress: down
+27.2151 	EXP 	target: autoDraw = False
+27.2151 	EXP 	target: color = 'blue (named)'
+27.2151 	EXP 	target: text = 'green'
+27.7000 	EXP 	target: autoDraw = True
+28.6686 	EXP 	New trial (rep=1, index=4): OrderedDict([('word', 'blue'), ('colour', 'blue'), ('congruent', 1), ('corrAns', 'right')])
+28.6738 	DATA 	Keypress: right
+28.6851 	EXP 	target: autoDraw = False
+28.6851 	EXP 	target: color = 'blue (named)'
+28.6851 	EXP 	target: text = 'blue'
+29.1659 	EXP 	target: autoDraw = True
+30.8373 	DATA 	Keypress: q
+30.8373 	EXP 	Global key event: quit. Calling <function quit at 0x1138b8a60>.
+31.1107 	EXP 	window1: mouseVisible = True

@@ -1,0 +1,19 @@
+6.2126 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x1193f2d30>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x1190d88d0>, multiSample=False, name='window1', numSamples=2, pos=[320.0, 200.0], screen=0, size=array([2560, 1600]), stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.2126 	EXP 	window1: recordFrameIntervals = False
+6.3799 	EXP 	window1: recordFrameIntervals = True
+6.5144 	WARNING 	t of last frame was 20.02ms (=1/49)
+6.6788 	EXP 	window1: recordFrameIntervals = False
+6.9658 	EXP 	Created instrText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='instrText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+6.9790 	EXP 	Created target = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='target', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+7.0120 	EXP 	instrText: autoDraw = True
+7.7482 	EXP 	Imported stroop.xlsx as conditions, 6 conditions, 4 params
+7.7486 	EXP 	Created sequence: random, trialTypes=6, nReps=5, seed=None
+7.7490 	EXP 	New trial (rep=0, index=0): OrderedDict([('word', 'red'), ('colour', 'green'), ('congruent', 0), ('corrAns', 'down')])
+7.7544 	DATA 	Keypress: space
+7.7654 	EXP 	instrText: autoDraw = False
+7.7654 	EXP 	target: color = 'green (named)'
+7.7654 	EXP 	target: text = 'red'
+8.2452 	EXP 	target: autoDraw = True
+8.6974 	DATA 	Keypress: space
+9.7161 	DATA 	Keypress: escape
+10.0967 	EXP 	window1: mouseVisible = True

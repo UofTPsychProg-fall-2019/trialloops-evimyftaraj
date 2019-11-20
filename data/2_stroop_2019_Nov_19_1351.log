@@ -1,0 +1,17 @@
+5.7314 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x119bb2d30>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x119cb95c0>, multiSample=False, name='window1', numSamples=2, pos=[320.0, 200.0], screen=0, size=array([2560, 1600]), stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+5.7315 	EXP 	window1: recordFrameIntervals = False
+5.8975 	EXP 	window1: recordFrameIntervals = True
+6.0815 	EXP 	window1: recordFrameIntervals = False
+6.3515 	EXP 	Created instrText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='instrText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+6.3649 	EXP 	Created target = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='target', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+6.3961 	EXP 	instrText: autoDraw = True
+7.0499 	EXP 	Imported stroop.xlsx as conditions, 6 conditions, 4 params
+7.0504 	EXP 	Created sequence: random, trialTypes=6, nReps=5, seed=None
+7.0508 	EXP 	New trial (rep=0, index=0): OrderedDict([('word', 'blue'), ('colour', 'blue'), ('congruent', 1), ('corrAns', 'right')])
+7.0562 	DATA 	Keypress: space
+7.0785 	EXP 	instrText: autoDraw = False
+7.0785 	EXP 	target: color = 'blue (named)'
+7.0785 	EXP 	target: text = 'blue'
+7.5450 	EXP 	target: autoDraw = True
+7.9973 	DATA 	Keypress: escape
+8.4453 	EXP 	window1: mouseVisible = True

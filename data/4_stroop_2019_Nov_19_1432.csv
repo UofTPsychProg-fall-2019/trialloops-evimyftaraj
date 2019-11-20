@@ -1,0 +1,5 @@
+﻿word,colour,congruent,corrAns,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,instrText.started,instrText.stopped,target.started,target.stopped,response.keys,response.corr,response.rt,response.started,response.stopped,participant,session,date,expName,psychopyVersion,frameRate,
+green,green,1,down,0,0,0,2,8.881879667998874,None,14.532460588001413,None,left,0,1.4368731879949337,14.532460588001413,None,4,001,2019_Nov_19_1432,stroop,3.2.4,60.169824999459586,
+red,red,1,left,0,1,1,0,,,16.482617967994884,None,left,1,0.4067525660066167,16.482617967994884,None,4,001,2019_Nov_19_1432,stroop,3.2.4,60.169824999459586,
+green,blue,0,right,0,2,2,3,,,17.4007228249975,None,left,0,0.45651024900143966,17.4007228249975,None,4,001,2019_Nov_19_1432,stroop,3.2.4,60.169824999459586,
+blue,red,0,left,0,3,3,5,,,18.36754555099469,None,down,0,0.40167045799898915,18.36754555099469,None,4,001,2019_Nov_19_1432,stroop,3.2.4,60.169824999459586,
